@@ -43,4 +43,11 @@ Update the `BaseTest` class with the appropriate WebDriver setup if needed.
 - Ensure that the correct versions of the browser and WebDriver are used for compatibility.
 - Any changes in the SauceDemo website’s UI may require updates in the locators used in the Page Object classes.
 
-#
+# ![1111](https://github.com/user-attachments/assets/a453ada2-1cff-4e30-9738-8a6a33594d59)
+
+
+
+https://github.com/user-attachments/assets/cc26e46b-32bd-46a7-872b-c4afbc568d7f
+
+
+
