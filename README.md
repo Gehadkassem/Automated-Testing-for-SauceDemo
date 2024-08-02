@@ -1,7 +1,5 @@
 # Automated-Testing-for-SauceDemo
 
-# Automated Testing Suite for SauceDemo
-
 ## Project Overview
 
 This project is an automated testing suite for the SauceDemo website using Selenium, Java, and Cucumber. The suite covers a login process, adding a product to the cart, and completing a checkout process.
